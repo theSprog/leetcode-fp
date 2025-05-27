@@ -4,7 +4,7 @@ leetcode-FP
 | 序号 |   题名   | 问题 | erl题解 | cpp题解 | 难度 | 状态 |
 | :--: | :--: | :--: | :--: | :--: | ---- | ---- |
 | 1 | 两数之和 | [链接](https://leetcode-cn.com/problems/two-sum) | [链接](/src/erlang/algorithms_1.erl) | [链接](/src/cpp/algorithms_1.cpp) | 简单 | ✅ |
-| 2 | 两数相加 | [链接](https://leetcode-cn.com/problems/add-two-numbers) | [链接](/src/erlang/algorithms_2.erl) | [链接](/src/cpp/algorithms_2.cpp) | 中等 |  |
+| 2 | 两数相加 | [链接](https://leetcode-cn.com/problems/add-two-numbers) | [链接](/src/erlang/algorithms_2.erl) | [链接](/src/cpp/algorithms_2.cpp) | 中等 | ✅ |
 | 3 | 无重复字符的最长子串 | [链接](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [链接](/src/erlang/algorithms_3.erl) | [链接](/src/cpp/algorithms_3.cpp) | 中等 |  |
 | 4 | 寻找两个有序数组的中位数 | [链接](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [链接](/src/erlang/algorithms_4.erl) | [链接](/src/cpp/algorithms_4.cpp) | 困难 |  |
 | 5 | 最长回文子串 | [链接](https://leetcode-cn.com/problems/longest-palindromic-substring) | [链接](/src/erlang/algorithms_5.erl) | [链接](/src/cpp/algorithms_5.cpp) | 中等 |  |
